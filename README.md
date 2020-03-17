@@ -1,4 +1,4 @@
-# 2-18-2020
+# BDAY Game
 
 A birthday gift made with Unity to practice player movement, camera control, scene switches, object collision, pushing and pulling objects, platforming, and C#. 
 
