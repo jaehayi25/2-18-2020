@@ -1,6 +1,6 @@
 # 2-18-2020
 
-A birthday gift made with Unity to practice player movement, camera control, switching scenes, object collision, pushing and pulling objects, platforming, and C#. 
+A birthday gift made with Unity to practice player movement, camera control, scene switches, object collision, pushing and pulling objects, platforming, and C#. 
 
 Online material that I used: 
 - platform, jumping, player controls: https://www.youtube.com/watch?v=QGDeafTx5ug
