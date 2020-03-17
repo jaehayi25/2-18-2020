@@ -1,4 +1,4 @@
-# BDAY Game
+# Blue Birthday
 
 A birthday gift made with Unity to practice player movement, camera control, scene switches, object collision, pushing and pulling objects, platforming, and C#. 
 
